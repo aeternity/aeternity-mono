@@ -1,0 +1,125 @@
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:200;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-ExtraLight.woff2") format("woff2"),
+        url("WEB/aeternitymono-ExtraLight.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:200;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-ExtraLightItalic.woff2") format("woff2"),
+        url("WEB/aeternitymono-ExtraLightItalic.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:300;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Light.woff2") format("woff2"),
+        url("WEB/aeternitymono-Light.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:300;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-LightItalic.woff2") format("woff2"),
+        url("WEB/aeternitymono-LightItalic.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:400;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Regular.woff2") format("woff2"),
+        url("WEB/aeternitymono-Regular.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:400;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Italic.woff2") format("woff2"),
+        url("WEB/aeternitymono-Italic.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:500;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Medium.woff2") format("woff2"),
+        url("WEB/aeternitymono-Medium.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:500;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-MediumItalic.woff2") format("woff2"),
+        url("WEB/aeternitymono-MediumItalic.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:600;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Semibold.woff2") format("woff2"),
+        url("WEB/aeternitymono-Semibold.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:600;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-SemiboldItalic.woff2") format("woff2"),
+        url("WEB/aeternitymono-SemiboldItalic.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:700;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Bold.woff2") format("woff2"),
+        url("WEB/aeternitymono-Bold.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:700;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-BoldItalic.woff2") format("woff2"),
+        url("WEB/aeternitymono-BoldItalic.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:900;
+    font-style:normal;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-Black.woff2") format("woff2"),
+        url("WEB/aeternitymono-Black.woff") format("woff");
+}
+
+@font-face{
+    font-family:"aeternity mono";
+    font-weight:900;
+    font-style:italic;
+    font-stretch:normal;
+    src:url("WEB/aeternitymono-BlackItalic.woff2") format("woff2"),
+        url("WEB/aeternitymono-BlackItalic.woff") format("woff");
+}
