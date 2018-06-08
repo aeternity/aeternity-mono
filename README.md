@@ -10,4 +10,4 @@ This license is [part of the repository](LICENSE.md), and is also available with
 
 ## Further information
 
-For information about the design and background of the original Source Code Pro, please refer to the [official font readme file](https://www.adobe.com/products/type/font-information/source-code-pro-readme.html).
+For information about the design and background of the original typeface, please refer to the [official font readme file](https://www.adobe.com/products/type/font-information/source-code-pro-readme.html).
