@@ -1,3 +1,6 @@
+## This repository has been archived on 20.02.2023
+The reason for the retirement is that the code is not used anymore.
+
 # aeternity mono
 
 aeternity mono is a set of OpenType fonts that have been designed to provide an easy and ultimate distinguishability between often misinterpreted characters. aeternity mono is a modification—and improvement—of Source Code Pro’s default font features.
